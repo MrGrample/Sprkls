@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Window
+  - Panel
+  - MainText
+  - StartText
+  - StartWindow
+  - PlayerText
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Windows
+  - Water
+  - UI
+  - Background
+  - Post Processing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2123454209
+    locked: 0
+  - name: Panels
+    uniqueID: 3901354207
+    locked: 0
+  - name: Windows
+    uniqueID: 3678594805
+    locked: 0
+  - name: Start
+    uniqueID: 771401317
+    locked: 0

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d3fcd7169992fce4bb334b8e1d17025b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Minecraft Rus
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 366b0f1ee7570ac428d63c2f825bfc3f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
